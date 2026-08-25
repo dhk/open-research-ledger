@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "open_research_ledger",
+  "project_id": "d20b6dfb-7e88-48c8-8df8-2d9f2d930670"
+}
